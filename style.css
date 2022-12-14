@@ -1,0 +1,22 @@
+table,th,td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    margin-left: 5em;
+}
+header{
+    background-color: coral;
+    padding-left: 7em;
+    bac
+}
+.baslik,table{
+    padding-left: 5em;
+}
+th{
+    background-color: cornflowerblue;
+}
+.light{
+    background-color: rgb(203, 245, 255);
+}
+table{
+    background-color: rgb(222, 241, 245);
+}
